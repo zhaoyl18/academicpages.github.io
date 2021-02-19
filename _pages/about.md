@@ -10,5 +10,10 @@ redirect_from:
 
 Hi! I'm a junior majoring E.E. in Tsinghua University, interested in theoretical aspects of ML.
 
+Currently I'm working on theories for:
+
+* Understanding of Self-Supervised Learning
+* Stochastic Preconditioning for parallel learning
+
 
 
