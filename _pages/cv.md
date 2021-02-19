@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Engineering, Tsinghua University, 2022(expected)
 
-Work experience
+Research experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * Washington University
+  * Investigated policy gradient methods and applied them to multi-agent
+  * Supervisor:  Simon S. Du
+* Winter 2019: Research Intern
+  * Sensetime Research
+  * Developing MMDection3D, a framework and toolbox for 3D object detection on point clouds
+  * Supervisor:  Kwan-Yee Lin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Love and Understanding of Applied mathematics
+* Programming Languages
+  * C/C++
+  * MATLAB
+  * python
+  * TensorFlow
+  * PyTorch
+* TOEFL: Total 100 (Reading 28, Listening 26, Speaking 24, Writing 22)
 
 Publications
 ======
@@ -42,18 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Minister of Student Association of Science and Technology in Department of E.E.
+* Helped teach high school students learn mathematics during COVID-19 in ‘Spring Rain’ program
