@@ -12,8 +12,8 @@ Hi! I'm a junior majoring E.E. in Tsinghua University, interested in theoretical
 
 Currently I'm working on theories for:
 
-* Understanding of Self-Supervised Learning
-* Stochastic Preconditioning for parallel learning
+* understanding of Self-Supervised Learning
+* stochastic preconditioning for parallel optimization
 
 
 
