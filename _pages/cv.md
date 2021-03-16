@@ -35,6 +35,7 @@ Skills
   * TensorFlow
   * PyTorch
 * TOEFL: Total 100 (Reading 28, Listening 26, Speaking 24, Writing 22)
+* GRE:   Q170, V157, W3.5
 
 Publications
 ======
