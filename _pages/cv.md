@@ -13,10 +13,10 @@ Education
 ======
 * B.S. in Electronic Engineering, Tsinghua University, 2022(expected)
 
-Research experiences
+Experiences
 ======
 * 2020.6 - Present 
-  * Research Assistant
+  * Remote Research Assistant
   * Investigated policy gradient methods and applied them to multi-agent
   * Supervisor:  Simon S. Du, Jason D. Lee
 * 2019.12 - 2020.5
@@ -24,7 +24,6 @@ Research experiences
   * Developing MMDection3D, a framework and toolbox for 3D object detection on point clouds
   * Supervisor:  Kwan-Yee Lin
 
-  
 Skills
 ======
 * Love and Understanding of Applied mathematics
