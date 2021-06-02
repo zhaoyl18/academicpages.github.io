@@ -15,12 +15,12 @@ Education
 
 Research experiences
 ======
-* Summer 2020: Research Assistant
-  * Remote Intern
+* 2020.6 - Present 
+  * Research Assistant
   * Investigated policy gradient methods and applied them to multi-agent
   * Supervisor:  Simon S. Du, Jason D. Lee
-* Winter 2019: Research Intern
-  * Sensetime Research
+* 2019.12 - 2020.5
+  * Intern at Sensetime Research
   * Developing MMDection3D, a framework and toolbox for 3D object detection on point clouds
   * Supervisor:  Kwan-Yee Lin
 
