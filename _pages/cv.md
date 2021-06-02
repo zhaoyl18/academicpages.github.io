@@ -16,9 +16,9 @@ Education
 Research experiences
 ======
 * Summer 2020: Research Assistant
-  * Washington University
+  * Remote Intern
   * Investigated policy gradient methods and applied them to multi-agent
-  * Supervisor:  Simon S. Du
+  * Supervisor:  Simon S. Du, Jason D. Lee
 * Winter 2019: Research Intern
   * Sensetime Research
   * Developing MMDection3D, a framework and toolbox for 3D object detection on point clouds
@@ -34,7 +34,7 @@ Skills
   * python
   * TensorFlow
   * PyTorch
-* TOEFL: Total 100 (Reading 28, Listening 26, Speaking 24, Writing 22)
+* TOEFL: Total 103 (Reading 26, Listening 28, Speaking 22, Writing 27)
 * GRE:   Q170, V157, W3.5
 
 Publications
